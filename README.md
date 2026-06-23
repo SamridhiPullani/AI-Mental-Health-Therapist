@@ -89,19 +89,19 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### 🏠 Dashboard Home
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshotsss/dashboard.png)
 
 ### 📊 Mood Analytics
-![Analytics](screenshots/analytics.png)
+![Analytics](screenshotsss/analytics.png)
 
 ### 🔍 Mood History
-![Mood History](screenshots/history.png)
+![Mood History](screenshotsss/history.png)
 
 ### 🏆 Achievements Dashboard
-![Achievements](screenshots/achievements.png)
+![Achievements](screenshotsss/achievements.png)
 
 ### 🤖 AI Therapist Chat
-![AI Therapist Chat](screenshots/chat.png)
+![AI Therapist Chat](screenshotsss/chat.png)
 
 ## 🌟 Future Improvements
 
